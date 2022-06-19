@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sametaien&label=Profile%20views&color=0e75b6&style=flat" alt="sametaien" /> </p>
 
-- 🌱 I’m currently learning **C#, NET 6**
+- 🌱 I’m currently learning **C# and Best Practices**
 
 - 👨‍💻 All of my projects are available at [(SOON)]((SOON))
 
